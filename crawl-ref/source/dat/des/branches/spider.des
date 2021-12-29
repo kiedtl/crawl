@@ -1996,7 +1996,7 @@ xx...^...xx
 ENDMAP
 
 NAME:   hellmonk_motheaten_closet
-TAGS:   no_monster_gen no_item_gen 
+TAGS:   no_monster_gen no_item_gen
 MONS:   ghost moth / sun moth / moth of wrath
 ITEM:   robe plus:-2 w:25 / hat plus:-2 / pair of gloves plus:-2
 ITEM:   robe randart w:25 / hat randart / pair of gloves randart
@@ -2025,10 +2025,10 @@ MAP
   xxx.xxx
  xxx...xxx
  xG.....Gx
- x.'''''.x 
- x.'xxx'.x 
- x.'xxx'.x 
- x.'''''.x 
+ x.'''''.x
+ x.'xxx'.x
+ x.'xxx'.x
+ x.'''''.x
  xG.....Gx
  xxx...xxx
   xxx.xxx
@@ -2071,24 +2071,24 @@ MONS:   broodmother
 SUBST:  0 = 0...
 MAP
     x@x
-    x.x                                            
-    x.x                                                  
-  xxx.xxx                                                
- xx.....xx                                                 
- x.......x                                                 
-xx..0x0..xx                                                
-x0..xxx..0x                                                
-x..xxxxx..x                                                
-x0xxxxxxx0x                                                
-x..xxxxx..x                                                
-x0.0xxx0.0x                                                
-xx...x...xx                                                
- x.x...x.x                                                 
- x0.0.0.0x                                                 
- xx..x..xx                                                 
-  xx0.0xx                                                  
-   xx1xx                                                   
-    xxx                                                    
+    x.x
+    x.x
+  xxx.xxx
+ xx.....xx
+ x.......x
+xx..0x0..xx
+x0..xxx..0x
+x..xxxxx..x
+x0xxxxxxx0x
+x..xxxxx..x
+x0.0xxx0.0x
+xx...x...xx
+ x.x...x.x
+ x0.0.0.0x
+ xx..x..xx
+  xx0.0xx
+   xx1xx
+    xxx
 ENDMAP
 
 ###############################################################################
